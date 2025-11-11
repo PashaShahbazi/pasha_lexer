@@ -2,7 +2,9 @@
 # Lexical Analyzer (Lexer) — Compiler Design Project
 
 This project implements the **Lexical Analysis** phase of a compiler for a custom-designed educational programming language.  
-It was developed by **Pasha Shahbazi** as part of the *Compiler Design* course project.
+It was developed as part of the *Compiler Design* course project.
+
+> Note: This project was recently uploaded but was originally developed during my studies.
 
 ---
 
