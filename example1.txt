@@ -1,8 +1,0 @@
-ilg &numbers& <- 8/2 &name&
-func &name& < > : [ ]
-&sdf&
-&sdf&
-&sdjf& &dlskfjdsljf&
-83249
-"sdf"
-repeat func verd se alse alse en bro ritorno ilg rango

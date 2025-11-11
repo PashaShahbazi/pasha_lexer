@@ -1,0 +1,17 @@
+
+ilg &number1& <- 8/2
+
+caden &greeting& <- "Hello"
+
+func &add_numbers& < > :
+[
+    ilg &a& <- 5
+    ilg &b& <- 3/2
+    ritorno &a&
+]
+
+repeat
+    bro &add_numbers&
+en
+
+verd &flag& <- 

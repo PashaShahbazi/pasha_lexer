@@ -1,0 +1,11 @@
+
+
+ilg &num& <- 8/2
+
+&name& @@ 9
+
+funcc &x& <- 2
+
+caden &msg& <- "Unfinished string
+
+&partname
