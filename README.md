@@ -167,4 +167,4 @@ That project was built to automate the repetitive task of manually coding each D
 
 - **Language description:** `docs/language-spec.pdf`
 - **DFA diagrams:** `docs/dfa-diagrams.pdf`
-Both contain the regular expressions and DFA designs used to construct the lexical analyzer.;
+Both contain the regular expressions and DFA designs used to construct the lexical analyzer.
