@@ -658,3 +658,9 @@ df_id = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in id_dict.items()]))
 with open('id_table.txt', 'w') as fh_table:
     dfAsString = df_id.to_string(header=True, index=True)
     fh_table.write(dfAsString)
+    
+print("\n✅ Lexical analysis completed successfully!")
+print("Generated files:")
+print(" - Tokens.txt")
+print(" - Tokens_table.txt")
+print(" - id_table.txt\n")
