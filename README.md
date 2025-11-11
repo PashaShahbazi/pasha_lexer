@@ -162,11 +162,3 @@ were **automatically generated** using a separate project that converts **regula
 That project was built to automate the repetitive task of manually coding each DFA in the compiler design process.
 
 👉 Related project: [**DFA2Code**](https://github.com/PashaShahbazi/DFA2Code)
-
----
-
-## 📘 Documentation
-
-- **Language description:** `docs/language-spec.pdf`
-- **DFA diagrams:** `docs/dfa-diagrams.pdf`
-Both contain the regular expressions and DFA designs used to construct the lexical analyzer.
